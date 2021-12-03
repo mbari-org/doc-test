@@ -1,5 +1,5 @@
 ---
-description: Site only for doc-generation test purposes
+description: Only for doc-generation test purposes
 ---
 
 
