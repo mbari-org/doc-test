@@ -3,7 +3,7 @@ theme:
   name: material
   logo: https://docs.mbari.org/imgs/mbari-logo.png
   palette:
-    - scheme: light
+    - scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
