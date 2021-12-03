@@ -1,3 +1,13 @@
 site_name: Doc test repo (only for test purposes)
 theme:
   name: material
+  logo: https://docs.mbari.org/imgs/mbari-logo.png
+  palette:
+    - scheme: light
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
