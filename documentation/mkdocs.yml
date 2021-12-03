@@ -1,4 +1,4 @@
-site_name: zzz -- doc test repo (only for test purposes)
+site_name: zzzz -- doc test repo (only for test purposes)
 theme:
   name: material
   logo: https://docs.mbari.org/imgs/mbari-logo.png
